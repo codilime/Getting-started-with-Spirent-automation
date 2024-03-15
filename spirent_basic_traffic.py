@@ -1,3 +1,7 @@
+"""
+Author: Radosław Kochman (radoslaw.kochman@codilime.com), CodiLime (codilime.com).
+Date: 15.03.2024
+"""
 import time
 from stcrestclient import stchttp
 
